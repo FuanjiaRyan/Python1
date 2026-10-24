@@ -7,12 +7,19 @@
 #print(is_published)
 #print(course_name)
 
-course = "  Python Programming"
+#Methods in String
+#course = "  Python Programming"
 
-print(course.upper())
-print(course.lower())
-print(course.strip())
-print(course.find("Pro"))
-print(course.replace("P", "J"))
-print("Pro" in course)
-print("swift" not in course)
+#print(course.upper())
+#print(course.lower())
+#print(course.strip())
+#print(course.find("Pro"))
+#print(course.replace("P", "J"))
+#print("Pro" in course)
+#print("swift" not in course)
+
+#import math
+
+#print(round(2.9))
+#print(abs(-2.9))
+#print(math.ceil(2.2))
